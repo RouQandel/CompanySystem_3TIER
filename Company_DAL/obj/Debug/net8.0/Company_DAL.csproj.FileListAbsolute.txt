@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\bin\Debug\net8.0\Company_DAL.deps.json
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\bin\Debug\net8.0\Company_DAL.dll
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\bin\Debug\net8.0\Company_DAL.pdb
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\Company_DAL.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\Company_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\Company_DAL.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\Company_DAL.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\Company_DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\Company_DAL.dll
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\refint\Company_DAL.dll
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\Company_DAL.pdb
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\ref\Company_DAL.dll
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\bin\Debug\net8.0\Company_DAL.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\RAWAN\iti\backEnd\c#\ef\day3\EF_Day3\Company_DAL\obj\Debug\net8.0\Company_DAL.genruntimeconfig.cache
